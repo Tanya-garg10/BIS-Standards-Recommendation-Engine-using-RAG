@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "expected_standards": ["IS 269", "IS 8112", "IS 12269"]
+  },
+  {
+    "id": 2,
+    "expected_standards": ["IS 1489"]
+  },
+  {
+    "id": 3,
+    "expected_standards": ["IS 456"]
+  }
+]

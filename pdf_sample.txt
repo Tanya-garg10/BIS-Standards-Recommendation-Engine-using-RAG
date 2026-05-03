@@ -1,0 +1,382 @@
+1.9
+SP  21 : 2005
+Note — For   methods of tests refer to IS 2185 (Part 2):1983 Concrete masonry units Part 2 Hollow and solid light  weight
+concrete blocks (first revision), IS 2386:1963 Methods of tests for aggregates for concrete, (Part 1) Particle size and shape, (Part
+2) Organic Estimation of deleterious materials and organic impurities, Part 3 Specific  gravity, density, voids, absorption and
+bulking, (IS 2686:1977 Cinder aggrerate  for  use in lime concrete, and IS 4032:1985 Method of chemical analysis of hydraulic
+cement (first revision).
+For detailed information, refer to IS 9142:1979  Specification for artificial lightweight aggregates for concrete
+masonry units.
+ 
+1.10
+SP  21 : 2005
+SUMMARY OF
+IS 269 : 1989 ORDINARY PORTLAND CEMENT, 33 GRADE
+(Fourth Revision)
+1. Scope — Covers the manufacture and chemical and
+physical  requirements of 33 grade ordinary Portland
+cement.
+2. Chemical Requirements — When tested in
+accordance with the methods given in IS 4032 : 1985, 33
+grade ordinary Portland cement shall comply with the
+chemical requirements given in Table 1.
+3. Physical Requirements
+3.1 Fineness — Specific surface of cement shall not be
+less than 225 m2 /kg.
+3.2 Soundness — Unaerated expansion shall be not more
+than 10 mm by 'Le Chatelier' method and 0.8 percent by
+autoclave test; if it fails, aerated sample shall not show
+more of than 5 mm and 0.6 percent when tested by 'Le
+Chatelier' method and autoclave method respectively.
+3.3 Setting Time — The setting time of the cements,
+when tested by the vicat apparatus shall conform to the
+following requirements:
+    a)    Initial setting time
+Not less than
+            in minutes
+30; and
+     b)    Final setting time
+Not more than
+            in minutes
+600.
+3.4
+Compressive Strength — The average of at least
+three mortar cubes (area of face 50 cm2) composed of
+one part of cement, three parts of standard sand by mass
+and 
+P
+4
++ 3.0
+
+
+
+ percent (of combined mass of cement plus
+sand) water and prepared, stored and tested shall be as
+follows:
+a) 72 ± 1 hour : 
+not less than 16 MPa,
+b) 168  2 hours : 
+not less than 22 MPa,
+and
+c) 672
+4 hours :
+not less than 33 MPa.
+4. Delivery — Packed in specified bags of 50 kg,
+25 kg, 10 kg,5 kg, 2 kg or 1 kg net or in bulk with
+tolerances specified in the standard.
+ TABLE 1 CHEMICAL REQUIREMENTS FOR 33 GRADE ORDINARY PORTLAND CEMENT
+Sl. No.                  Characteristics
+Requirement
+(1)                           (2)
+                  (3)
+i)
+Ratio of percentage of lime to percentage of
+Not greater than 1.02 and  not
+silica, alumina and iron oxide, when calculated
+less than 0.66
+by the formula
+ii)
+Ratio of percentage of alumina to that of iron oxide
+Not less than 0.66
+iii)
+Insoluble residue, percent by mass
+(a)In case no flyash, silica fume, rice, husk ash and
+metakaoline  is added - not more than 5.0
+(b) In case of addition of and / or silica fume and/or rice
+husk ash and /or metakoline - Not more than 5.0
+iv)
+Magnesia, percent by mass
+Not more than 6.0 percent
+v)
+Total sulphur content calculated as
+Not more than 2.5 and 3.0 when tri-calcium
+sulphuric anhydride (SO3)percent by mass
+aluminate percent by mass is 5 or less
+and greater than 5 respectively
+vi)
+Total loss on ignition
+Not more than 5 percent
+Note —  For method of tests, refer to relevant parts of IS 4031 Methods of physical test for hydraulic cement; and IS: 4032-1985
+Methods of  chemical  analysis of hydraulic cement (first revision).
+For detailed information, refer to IS 269:1989 Specification for ordinary portland cement, 33 grade (fourth
+revision).
+±
+±
+3
+2
+2
+3
+2
+3
+0.7
+2.8
+1.2
+0.65
+CaO
+SO
+SiO
+Al O
+Fe O
+−
++
++
+ 
+1.11
+SP  21 : 2005
+SUMMARY OF
+IS 455 : 1989 PORTLAND SLAG CEMENT
+(Fourth Revison)
+Note —  For methods of tests, refer to relevant parts of IS 4031 Methods of physical tests for hydraulic  cement and IS 4032:1985
+Chemical  analysis of hydraulic cement (first revision)
+For detailed information, refer to IS 455:1989. Specification for portland slag cement
+(fourth revision).
+3.2 Soundness  —  Expansion of unaerated sample
+(i)
+not more than 10 mm by 'Le Chateliers' method
+(ii) not more than 0.8 percent by autoclave method
+3.3 Setting Time –
+a)
+Initial setting time
+Not less than
+30 minutes
+b)
+Final setting time
+Not more than
+600 minutes
+3.4 Compressive Strength
+a)
+72  ± 1 h
+Not less than 16 MPa
+b) 168 
+ 2 h 
+Not less than 22 MPa
+c) 672 
+4 h 
+Not less than 33 MPa
+4.
+Delivery — Packed in specified bags of
+50 kgs or 25 kgs net or in builk with   tolerances specified
+in the standard.
+1. Scope— Covers the manufacture and chemical and
+physical requirements for Portland slag cement.
+2.  Chemical Requirement
+     Percent, Max
+Magnesium oxide (MgO)
+8.0
+Sulphur trioxide (SO3)
+3.0
+Sulphide sulphur (S)
+                1.5
+Loss on ignition
+5.0
+Insoluble residue
+4.0
+Notes1—Total chloride content in cement shall not
+exceed 0.05 percent by mass for cement used in
+prestressed concrete structures and long span reinforced
+concrete structures. (Method of test for  determination
+of chloride content in  cement is given in
+IS 12423:1988.)*
+Notes 2. Granulated slag conforming to IS
+12089:1987 † has been found suitable for the manufacture
+of Portland slag cement.
+3. Physical Requirements
+3.1Fineness — Specific surface , not less than
+225 m2/kg.
+* Method for colorimetric analysis of hydraulic cement.
+†    Granulated slag for manufacture of Portland slag Cement.
+±
+±
+ 
+1.12
+SP  21 : 2005
+SUMMARY OF
+IS 1489 (PART1) : 1991 PORTLAND POZZOLANA CEMENT
+PART 1 FLY ASH BASED
+(Third Revision)
+1. Scope —  Covers the manufacture, physical and
+chemical requirements of Portland pozzolana cement
+using only fly ash pozzolana.
+2. Raw Materials
+2.1Pozzolana
+2.1.1  Fly ash used in the manufacture of Portland -
+pozzolana cement shall conform to IS 3812 : 1981*.
+2.1.2 Fineness and average compressive strength in
+lime reactivity of fly ash shall not be less than 320
+m2/kg and 4.0 MPa respectively.
+2.1.3 Average compresive strength in lime reactivity
+of fly ash shall not be less than 4.0 MPa.
+2.1.4 Fly ash content shall be between 15 to 35 percent
+by mass of portland pozzolana cement.
+2.2
+Portland Cement Clinker/Portland Cement-shall
+conform to IS 269:1989†.
+3. Chemical Requirements — See Table 1.
+4. Physical  Requirements
+4.1Fineness — Specific surface shall be not less than
+300 m2/kg.
+4.2Soundness — Expansion of unaerated sample—
+i)
+Not more than 10 mm by 'Le Chateliers' method.
+ii)
+Not more than 0.8 percent by Autoclave
+method.
+4.3 Setting Time —
+Initial setting time
+ 30 min, Min
+Final setting
+600 min, Max
+4.4Compressive Strength —
+a)
+  At 72     1h 
+16 MPa, Min
+b)
+  At 168     2h 
+22 MPa, Min
+c)
+  At 672     4h           33 MPa, Min
+5. Delivery — Packed in specified bags of 50 kg or
+25 kg net or in bulk with tolerances specified in the
+standard.
+TABLE 1  CHEMICAL REQUIREMENTS OF PORTLAND POZZOLANA
+CEMENT
+SI No.                  Characteristic
+Requirement
+(1)
+                        (2)
+     (3)
+i)
+Loss on ignition, percent by mass, Max
+     5.0
+ii)
+Magnesia (MgO), percent by mass, Max
+     6.0
+iii)
+Sulphuric anhydride (SO3), percent by mass, Max
+     3.0
+iv)
+Insoluble material, percent by mass, Max
+Note — For methods of tests, refer to IS 1727:1967 Methods of test for pozzolanic material (first revision), relevant part of IS
+4031 Method of physical tests for hydraulic cement and IS 4032:1985 Methods of chemical analysis of hydrolic cement (first
+revision)
+For detailed information , refer to IS 1489 (Part 1) 1991 Specification for portland pozzolana cement Part 1
+:1991 Fly ash based (third revision).
+ * Flyash for use as pozzolana and admixture (first revision)
+†  Ordinary portland cement, 33 Grade (fourth revision).
+where 
+x 
+is 
+the 
+declared 
+percentage 
+of
+flyash 
+in 
+the 
+given 
+Portland 
+pozzolana
+cement.
+100
+)
+0.4 (100
+x
+x
+−
++
+±
+±
+±
+ 
+1.13
+SP  21 : 2005
+SUMMARY OF
+IS 1489 (PART 2) :1991 PORTLAND POZZOLANA CEMENT
+PART 2  CALCINED CLAY BASED
+(Third Revision)
+TABLE 1 CHEMICAL REQUIREMENTS OF PORTLAND- POZZOLANA CEMENT
+SI No.           Characteristic
+Requirement
+(1)                       (2)
+     (3)
+i)
+Loss on ignition, percent by mass, Max
+      5.0
+ii)
+Magnesia (MGO), percent by mass, Max
+      6.0
+iii)
+Sulphuric anhydrid (SO3),percent by mass, Max
+      3.0
+iv)
+Insoluble material, percent by mass, Max
+100
+)
+0.4 (100
+x
+x
+−
++
+where x is the  declared percenttage of pozzolana
+in the given Portland  pozzolana cement
+3. Chemical Requirement — See TABLE 1.
+4
+Physical requirements
+4.1Fineness
+ Specific surface of Portland pozzolana cement shall be
+not less than 300 m2/kg.
+4.2Soundness —  Expansion of unaerated sample.
+(i)
+Not more than 10 mm by ‘Le Chatelier’ Method.
+(ii)
+Not more than 0.8 percent by Autoclave
+method.
+4.3Setting time—
+        Initial setting time
+30 min, Min.
+        Final setting time
+600 min, Min.
+4.4Compressive stength
+      a) At 72 ± 1h
+16 MPa , Min
+      b) At 168 
+ 2h 
+22 MPa , Min
+      c) At 672
+4 h
+33 MPa , Min
+5
+Delivery Packed in specified bags of 50 kgs or 25,
+kgs net or in bulk with toerances specified in the
+standard.
+1. Scope — Manufacture, Physical and Chemical
+requriements of Portland- pozzolana cement
+manufactured by using calcined clay pozzolana or a
+mixture of calcined clay and fly ash pozzolana.
+2. Raw Materials
+2.1Pozzolana
+2.1.1 Pozzolana used shall be either calcined clay
+pozzolana conforming to IS 1344: 1981*.  or a mixture of
+calcined clay pozzolana conforming to IS 1344: 1981
+and fly ash conforming to IS 3812 : 1981† .
+2.1.2 Fineness and average compressive strength in
+lime reactivity of pozzolana shall not be less than 320
+m2/kg and 4.0 MPa respectively.
+2.1.3 Average compressive strength in lime reactivity
+of pozzolana shall not be less than 4.0 MPa.
+2.2 Portland cement clinker-shall confirm to
+ IS 269:1989‡
+Note — For methods of tests, refer to relevant parts of  IS 1727:1967 Methods of test of pozzolanic material (first revision),
+IS 4031— Method of physical tests of hydraulic cement and IS 4032: 1985 Methods of  Chemical analysis of hydraulic cement
+(first revision)
+For detailed information, refer to IS 1489(Part 2):1991 Specification for Portland pozzolana
+cement Part 2 calcined clay based (third revision).
+*
+Calcined clay pozzolana (second revision).
+†
+Fly ash for use as pozzolana and admiscture (first revision).
+‡
+Ordinary portland cement 33 Grade  (fourth revision).
+±
+±
+ 
