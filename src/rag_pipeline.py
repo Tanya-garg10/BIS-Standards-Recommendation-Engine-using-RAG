@@ -23,7 +23,13 @@ class RAGPipeline:
             top_docs = retrieved_docs[:top_k]
             return {
                 "results": [
-                    {"standard_id": doc["standard_id"], "title": doc["title"], "confidence": doc["confidence"], "reason": "Matched via vector similarity."}
+                    {
+                        "standard_id": doc["standard_id"], 
+                        "title": doc["title"], 
+                        "description": doc.get("description", ""), 
+                        "confidence": doc["confidence"], 
+                        "reason": "Matched via vector similarity."
+                    }
                     for doc in top_docs
                 ]
             }
@@ -74,6 +80,7 @@ Only return the JSON array, no other text.
                 matched_doc = next((doc for doc in retrieved_docs if doc['standard_id'] == item.get('standard_id')), None)
                 if matched_doc:
                     item['title'] = matched_doc['title']
+                    item['description'] = matched_doc.get('description', '')
                     item['confidence'] = matched_doc['confidence']
                     final_results.append(item)
                     
@@ -85,7 +92,13 @@ Only return the JSON array, no other text.
             top_docs = retrieved_docs[:top_k]
             return {
                 "results": [
-                    {"standard_id": doc["standard_id"], "title": doc["title"], "confidence": doc["confidence"], "reason": "LLM failed, matched via vector similarity."}
+                    {
+                        "standard_id": doc["standard_id"], 
+                        "title": doc["title"], 
+                        "description": doc.get("description", ""), 
+                        "confidence": doc["confidence"], 
+                        "reason": "LLM failed, matched via vector similarity."
+                    }
                     for doc in top_docs
                 ]
             }

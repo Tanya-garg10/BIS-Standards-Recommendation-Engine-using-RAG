@@ -119,7 +119,8 @@ if search_button:
                         st.markdown(f"**🤖 AI Rationale (Why this standard?):**")
                         st.info(res.get('reason', 'Matched based on high semantic vector similarity to product specifications.'))
                         
-                        st.button("📄 Download Standard PDF", key=f"dl_{idx}", disabled=True, help="Available in full version")
+                        dummy_pdf_content = f"Standard: {res.get('standard_id', 'Unknown')}\nTitle: {res.get('title', 'No Title')}\n\nThis is a mock PDF for the hackathon demo."
+                        st.download_button("📄 Download Standard PDF", data=dummy_pdf_content, file_name=f"{res.get('standard_id', 'standard').replace(':', '_')}.txt", mime="text/plain", key=f"dl_{idx}", help="Download standard details")
             else:
                 st.warning("No relevant standards found. Try refining your product description.")
     else:
